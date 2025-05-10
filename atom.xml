@@ -6,7 +6,7 @@
   <link href="https://blog.tuxiw.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.tuxiw.cn/"/>
-  <updated>2025-05-08T03:14:01.110Z</updated>
+  <updated>2025-05-10T03:10:43.257Z</updated>
   <id>https://blog.tuxiw.cn/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FreeSSL申请免费证书</title>
+    <link href="https://blog.tuxiw.cn/pages/SSL/FreeSSL.html"/>
+    <id>https://blog.tuxiw.cn/pages/SSL/FreeSSL.html</id>
+    <published>2025-05-10T03:00:51.000Z</published>
+    <updated>2025-05-10T03:10:43.257Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=</summary>
+        
+      
+    
+    
+    
+    <category term="SSL" scheme="https://blog.tuxiw.cn/categories/SSL/"/>
+    
+    
+    <category term="推荐" scheme="https://blog.tuxiw.cn/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="SSL" scheme="https://blog.tuxiw.cn/tags/SSL/"/>
+    
+    <category term="证书" scheme="https://blog.tuxiw.cn/tags/%E8%AF%81%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>allinssl提供免费SSL泛域名通配符SSL证书</title>
+    <link href="https://blog.tuxiw.cn/pages/SSL/allinssl.html"/>
+    <id>https://blog.tuxiw.cn/pages/SSL/allinssl.html</id>
+    <published>2025-05-10T02:33:33.000Z</published>
+    <updated>2025-05-10T03:01:54.681Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=</summary>
+        
+      
+    
+    
+    
+    <category term="SSL" scheme="https://blog.tuxiw.cn/categories/SSL/"/>
+    
+    
+    <category term="推荐" scheme="https://blog.tuxiw.cn/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="SSL" scheme="https://blog.tuxiw.cn/tags/SSL/"/>
+    
+    <category term="证书" scheme="https://blog.tuxiw.cn/tags/%E8%AF%81%E4%B9%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客每天自动生成每日早报文章</title>
@@ -145,7 +203,7 @@
     <link href="https://blog.tuxiw.cn/pages/%E6%8E%A8%E8%8D%90/Api%20%E6%8E%A5%E5%8F%A3%E6%8E%A8%E8%8D%90.html"/>
     <id>https://blog.tuxiw.cn/pages/%E6%8E%A8%E8%8D%90/Api%20%E6%8E%A5%E5%8F%A3%E6%8E%A8%E8%8D%90.html</id>
     <published>2025-05-06T15:15:46.000Z</published>
-    <updated>2025-05-08T06:32:34.717Z</updated>
+    <updated>2025-05-10T02:52:39.957Z</updated>
     
     
       
@@ -163,7 +221,9 @@
     
     <category term="推荐" scheme="https://blog.tuxiw.cn/tags/%E6%8E%A8%E8%8D%90/"/>
     
-    <category term="API - 接口" scheme="https://blog.tuxiw.cn/tags/API-%E6%8E%A5%E5%8F%A3/"/>
+    <category term="API" scheme="https://blog.tuxiw.cn/tags/API/"/>
+    
+    <category term="接口" scheme="https://blog.tuxiw.cn/tags/%E6%8E%A5%E5%8F%A3/"/>
     
   </entry>
   

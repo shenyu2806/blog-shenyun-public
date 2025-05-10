@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>FreeSSL申请免费证书</title>
+      <link href="/pages/SSL/FreeSSL.html"/>
+      <url>/pages/SSL/FreeSSL.html</url>
+      
+      
+      <categories>
+          
+          <category> SSL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 推荐 </tag>
+            
+            <tag> SSL </tag>
+            
+            <tag> 证书 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>allinssl提供免费SSL泛域名通配符SSL证书</title>
+      <link href="/pages/SSL/allinssl.html"/>
+      <url>/pages/SSL/allinssl.html</url>
+      
+      
+      <categories>
+          
+          <category> SSL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 推荐 </tag>
+            
+            <tag> SSL </tag>
+            
+            <tag> 证书 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo博客每天自动生成每日早报文章</title>
       <link href="/pages/%E4%B8%BB%E9%A2%98%E9%AD%94%E6%94%B9/Hexo2.html"/>
       <url>/pages/%E4%B8%BB%E9%A2%98%E9%AD%94%E6%94%B9/Hexo2.html</url>
@@ -136,7 +190,9 @@
             
             <tag> 推荐 </tag>
             
-            <tag> API - 接口 </tag>
+            <tag> API </tag>
+            
+            <tag> 接口 </tag>
             
         </tags>
       
